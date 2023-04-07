@@ -1,6 +1,6 @@
 # Intro
 
-Welcome to Aerotech Industries.  We have retooled and reopened our production line for KSP2.  Patent pending.  All rights reserved.  Rebate time is usually 1-2 years.  Subject to KTAR restrictions.  No warranty implied, implicit or otherwise.  Use at your own risk.  Requires standard 24-month subscription. Subject to approval.  APR of 17.5% after 1 billing cycle.  5 factor authentication (5FA) login a requirement.  Microsoft "Palladium" compatible computer with always on network connection and TPM and all approved updates required.  Widevine 10.0 digital restrictions management with mandatory neural punishment interface rolling out starting in 2024.  **Minimum:** Twin OC WC Nvidia 4090 **Recommended:** Cerebras Wafer Scale Engine
+Welcome to Aerotech Industries.  We have retooled and reopened our production line for KSP2.  Patent pending.  All rights reserved.  Rebate time is usually 1-2 years.  Subject to KTAR restrictions.  No warranty implied, implicit or otherwise.  Use at your own risk.  Requires standard 24-month subscription. Subject to approval.  APR of 17.5% after 1 billing cycle.  5 factor authentication (5FA) login a requirement.  Microsoft "Palladium" compatible computer with always on network connection and TPM and all approved updates required.  Widevine 10.0 digital restrictions management with mandatory neural punishment interface rolling out starting in 2024.  **Minimum:** 3 x OC WC Nvidia 4090 **Recommended:** Cerebras Wafer Scale Engine
 
 # Vehicles
 
