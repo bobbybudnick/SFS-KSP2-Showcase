@@ -1,3 +1,5 @@
+# Intro
+
 Welcome to Aerotech Industries.  We have retooled and reopened our production line for KSP2.  Patent pending.  All rights reserved.  Rebate time is usually 1-2 years.  Subject to KTAR restrictions.  No warranty implied, implicit or otherwise.  Use at your own risk.  Requires standard 24-month subscription. Subject to approval.  APR of 17.5% after 1 billing cycle.  5 factor authentication (5FA) login a requirement.  Microsoft "Palladium" compatible computer with always on network connection and TPM and all approved updates required.  Widevine 10.0 digital restrictions management required with mandatory neural punishment interface rolling out starting in 2024.
 
 # Vehicles
