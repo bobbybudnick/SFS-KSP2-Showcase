@@ -620,7 +620,7 @@ has a large amount of people room for long journeys
 good amount of fuel for pushing upper stages  
 can cruise at 15 percent thrust and deploy rear cargo doors for stability
 
-**Headless Horseman**  
+**Headless Horseman probe**  
 probe for islandhorse in mission configuration  
 meant to deal with no commnet bugs  
 engage both engines with independent throttle to desired setting  
