@@ -700,7 +700,7 @@ featured in planes like concorde and why droop nose needed
 bounce takeoff also needed so bounce nose forward once then pull up  
 important to keep pulling up and take off quickly to avoid instability
 
-**Structural linkage bug**  
+**Structural linkage bug aka "Standard Failure"**  
 many times after spawning or landing it will say vessel destroyed  
 supposedly a linkage failure between the wing and parent usually  
 just double click the vehicle and it still controls fine
