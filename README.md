@@ -636,7 +636,7 @@ polar endeavour - morningstar to north pole
 minimal jaunt - firebrand to minmus  
 munar excursion - odachi to moon  
 dunian expedition - vtol "india" and transfer stage to duna  
-joolian conquest - brimstone and transfer stage to laythe
+joolian conquest - brimstone to laythe and transfer stage and 2 probes to jool
 
 **Polar endeavour**  
 landing at the poles is sketchy due to the terrain/low light/sas and camera freakouts  
