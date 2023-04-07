@@ -639,7 +639,7 @@ dunian expedition - vtol "india" and transfer stage to duna
 joolian conquest - brimstone and transfer stage to laythe
 
 **Polar endeavour**  
-landing at the poles is very sketchy due to the terrain and low light  
+landing at the poles is sketchy due to the terrain/low light/sas and camera freakouts  
 set rocket ascent angle to 60 degrees and hold until burn out  
 not enough fuel for a return from the poles after a high speed run
 
