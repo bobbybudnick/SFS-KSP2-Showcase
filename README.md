@@ -193,7 +193,7 @@ roadrunner - sport bike - lean to steer
 roadunner alpha hit 210 max  
 roadunner alpha hit 204 and flipped forward when reversers deployed
 
-**Nodachi commercial heavy stovl**  
+**Nodachi commercial heavy STOVL**  
 shipname cheatbird 1  
 callsign phoenix 1-1  
 trainer for flying planetary cruiser  
@@ -232,7 +232,7 @@ can do pure vtol takeoff on kerbin with less fuel
 83 used 20 degrees and 10 percent throttle for orbit  
 10 percent used because fps does not allow fine adjustment
 
-**Odachi military heavy stovl**  
+**Odachi military heavy STOVL**  
 shipname cheatbird 2  
 callsign crystal palace  
 styled as srf planetary cruiser  
@@ -713,7 +713,7 @@ adding more fuel to a high thrust ssto has high impact
 # AI "Interstellar Mod"
 
 **Mod summary**  
-The currently hidden mid size nuclear engine was unlocked and the thrust changed to 750KN and ISP changed to 4000 to simulate a very efficient nuclear engine with a moderate amount of thrust.  This has enabled the building of sci-fi type vehicles that are more of interest to AI.  It also allows for smaller part counts on any larger vehicle to have more capable engines.  The vehicles that employ these engines are called "cheatbirds".
+The currently hidden mid size nuclear engine was unlocked and the thrust changed to 750KN and ISP changed to 4000 to simulate a very efficient nuclear engine with a moderate amount of thrust.  This has enabled the building of sci-fi type vehicles that are more of interest to AI.  It also allows for smaller part counts on any larger vehicle by having more capable engines.  The vehicles that employ these engines are called "cheatbirds".
 
 **Cheatbird and mod release status**  
 Because the developers of KSP2 have not formally released the engine the mod is not going to be released.  Obviously some other modder would have already released something like this if it was ethical to do so.  AI would be happy to direct anyone in modding the game for themselves.  Also AI would prefer to have the cheatbirds for itself and not release absolutely everything built.
