@@ -42,17 +42,18 @@ successful orbit - alpha 3 - jet actions added and had even better 19.11 fuel 29
 shipname freestyle  
 callsign tantal  
 last field is flaghip of each force  
-kafrican army does not exist so there is no strategic lift mission for kafrican air force  
-kafrican air force standard with jet ctol - icbm  
+Kafrican army does not exist so there is no strategic lift mission for kafrican air force  
+Kafrican air force standard with jet ctol - icbm  
 S.A.C.K. strategic air command of kafrica alpha with turboramjet ctol - brimstone  
-kafrican marines bravo with small jet and supersonic vtol - nodachi  
-kafrican navy charlie with skipper and small jet ctol ssto - rat albert  
-kafrican space force delta with skipper and jet ctol ssto - odachi  
+Kafrican marines bravo with small jet and supersonic vtol - nodachi  
+Kafrican navy lima with rocket vtol and nuclear main - rat albert  
+Kafrican space force delta with skipper and jet ctol ssto - odachi  
 K.A.S.A. kafrican air and space agency echo with nuclear and jet ctol ssto - trainer  
-kafrican coast guard foxtrot with small jet and supersonic vtol - wavedasher  
-K.A.T.O. kerbal authority treaty organization golf with small jet and supersonic stovl - mothership  
+Kafrican coast guard oscar with jet stovl and secondary and nuclear main - wavedasher  
+K.A.T.O. kerbal authority treaty organization mike with one engine jet stovl - mothership  
 K.I.A. kafrican intelligence agency hotel with small jet and supersonic twin stovl - morningstar  
-K.N.W.O. kerbal new world order india with classified propulsion stovl - firebrand
+K.N.W.O. kerbal new world order papa with max dv nuclear ctol - firebrand  
+Kection 31 november with nuclear stovl and nuclear main - young samson
 
 **JSF Standard**  
 subsonic but can go supersonic in dive  
