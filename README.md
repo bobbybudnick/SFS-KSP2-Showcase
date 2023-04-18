@@ -190,7 +190,7 @@ wing tanks - successful orbit - 27 - 10247dv - 4.16t of 7.5t - 98k x 70k
 india but with jet vtol instead  
 dv has taken an impact from the heavier jets  
 fairly stable in the hover  
-new color scheme favorite color blue and purple
+color scheme favorite color blue and purple
 
 **XZ-32 "Kilo"**  
 juliette but with 2 panther vtol/2 secondary whiplash/extra fuel  
@@ -301,6 +301,7 @@ can do pure vtol takeoff on kerbin with less fuel
 shipname cheatbird 2  
 callsign crystal palace  
 styled as srf planetary cruiser  
+color scheme carolina blue and unfinished duranium  
 twr shown is only for vacuum  
 key 1 - clearing debris from runway so it does not impede takeoff  
 key 2 - strip to bare fueselage and taxi to look for structural issues  
@@ -499,6 +500,7 @@ pilot and cockpit can survive beaching which is also the way to stop
 shipname lavos  
 callsign warlock  
 cheatbird for strategic missions on vulcan-class worlds  
+color scheme fired brick  
 a key was to reattach the body wing to tanks near center  
 tanks at edge flex too much  
 attach wings to body wings  
@@ -715,7 +717,7 @@ mission to anywhere - fighter mission to mun and minmus
 eve of innovation - military space mission to eve  
 kimalayan survey - fighter mission to high mountains and tundra  
 dunian expedition -fighter mission to duna  
-joolian conquest - strategic bombing mission to laythe and transfer stage and 2 probes to jool  
+joolian conquest - strategic bombing mission to jool  
 evian tides - imperial colonial mission to eve
 
 **Polar endeavour - mini mission**  
