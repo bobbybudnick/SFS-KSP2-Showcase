@@ -54,7 +54,7 @@ K.A.T.O. kerbal authority treaty organization golf with small jet and supersonic
 K.I.A. kafrican intelligence agency hotel with small jet and supersonic twin stovl - morningstar  
 K.N.W.O. kerbal new world order india with classified propulsion stovl - firebrand
 
-**JST Standard**  
+**JSF Standard**  
 subsonic but can go supersonic in dive  
 ctol
 
