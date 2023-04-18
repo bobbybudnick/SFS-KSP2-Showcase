@@ -185,6 +185,70 @@ sas control is limited so throttle back to 50 percent around 25k
 successful orbit - 26 - 8577dv - 3.21t of 6.25t - 115k x 70k  
 wing tanks - successful orbit - 27 - 10247dv - 4.16t of 7.5t - 98k x 70k
 
+**XY-32 "Juliette"**  
+india but with jet vtol instead  
+dv has taken an impact from the heavier jets  
+fairly stable in the hover  
+new color scheme favorite color blue and purple
+
+**XZ-32 "Kilo"**  
+juliette but with 2 panther vtol/2 secondary whiplash/extra fuel  
+ultimate kerbin exploration vtol  
+probably worse dv than india due to the jet fuel and jets  
+no need for multiple variants because stovl variant does it all  
+can use hydrogen engine like an afterburner around 35 percent  
+bad control authority at 20k and above at low speeds  
+can not fly high and slow because it leads to high aoa condition  
+definitely want to cruise at speed of 800+ at altitude of 27k+  
+hydrogen is very good at altitudes of around 30k and high speeds  
+at higher altitudes assume lower aoa and control altitude with throttle  
+1 - toggle main  
+2 - hover on  
+3 - hover off  
+4 - toggle secondary  
+5 - toggle hover thrust mode  
+6 - intakes off  
+7 - intakes on  
+8 - toggle main independent throttle
+
+**ZX-32 "Lima"**  
+kilo but jets removed and aerospike vtol added  
+ultimate space exploration vtol and counterpart of kilo  
+important to remain balanced due to aerospike having no gimbals  
+40k is noticeably better than 30k for atmospheric cruising  
+possible to not use much hover fuel for slow kerbin landing
+
+**YY-32 "Mike"**  
+complete rebuild with narrower main body  
+built as most authentic x-32 yet  
+features basic one engine stovl support  
+more improvements - angle engine down/turn on gimbal/action group to deploy tail to slow more in stovl  
+can not deploy other surfaces or will lose control  
+does not hover yet but takeoff and slow speed flight is largely improved
+
+**ZY-32 "November"**  
+may have less dv  
+but can fly around more on moons on nuclear vtol engines  
+more consistent with a single fuel type
+
+**YZ-32 "Oscar"**  
+kilo with 2 extra jet engines and more jet fuel and hydrogen  
+patch 2 engine bug action group workarounds applied  
+stovl performance is limited  
+maybe better than kilo because it commits more to jet usage  
+be sure to engage first stage at start  
+1 - toggle main  
+2 - hover on  
+3 - hover off  
+4 - secondary on  
+5 - secondary off  
+6 - toggle main independent throttle
+
+**ZZ-32 "Papa"**  
+november modified for use on eve with large boosters/parachutes/vtol removed  
+probably good for tylo operations also  
+could be used to leave the solar system easily especially with a large booster
+
 **Motorcycles**  
 standard model uses rover wheels  
 alpha model uses jets  
@@ -629,40 +693,105 @@ important to note that sas and parachute control still work somehow
 indpendent throttle can also be manipulated for throttle control  
 turn sas on to stop spinning and to have basic control
 
+**Abaddon drone SSTO**  
+shipname tomahawk  
+callsign bluebird 1-1  
+low sas authority missile/pod ship  
+manually set front wheel friction to 0  
+afterburners work really well above 20k  
+start rockets at 5k and important to remain in vertical sas mode  
+turn to 60 degrees at 20k - successful orbit - 135dv - 71k x 70k  
+turn to 45 degrees at 20k - successful orbit - 97dv - 83k x 70k  
+instead ascend at 60 degrees as this allows for full afterburner power  
+more of the more efficient afterburner energy is used in this regime  
+60 degree ascent - successful orbit - 508dv - 74k x 70k
+
 # Missions
 
 **Master list**  
-polar endeavour - morningstar to north pole  
-minimal jaunt - firebrand to minmus  
-munar excursion - odachi to moon  
-dunian expedition - vtol "india" and transfer stage to duna  
-joolian conquest - brimstone to laythe and transfer stage and 2 probes to jool
+polar endeavour - reconaissance mission to north and south pole  
+mission to anywhere - fighter mission to mun and minmus  
+eve of innovation - military space mission to eve  
+kimalayan survey - fighter mission to high mountains and tundra  
+dunian expedition -fighter mission to duna  
+joolian conquest - strategic bombing mission to laythe and transfer stage and 2 probes to jool  
+evian tides - imperial colonial mission to eve
 
-**Polar endeavour**  
+**Polar endeavour - mini mission**  
+the poles were thought to be hiding some secrets  
 landing at the poles is sketchy due to the terrain/low light/sas and camera freakouts  
 set rocket ascent angle to 60 degrees and hold until burn out  
-not enough fuel for a return from the poles after a high speed run
+not enough fuel for a return from the poles after a high speed run  
+result - morningstar overflew both poles on separate missions
 
-**Minimal jaunt**  
-no particular concerns
+**Mission to anywhere**  
+abaddon genesis orbital booster probe can detach with a small amount of fuel and be independent  
+there was the problem of mirrored struts being weak to overcome with single struts instead  
+still the problem of wing failing due to transverse loads so redesigned straight  
+this does not allow for proper crew transfer so an interstitial module was designed  
+stay on vertical sas mode with second stage for a while during ascent to not flip  
+result - successful trip to minmus and lima continues on to mun
 
-**Munar excursion**  
-no particular concerns
+**Eve of innovation**  
+take off at full thrust  
+if wings keep breaking restart game  
+4 solids - 40k apa at burnout - successful orbit - 162dv - 77k x 70k  
+6 solids - 77k apa at burnout - successful orbit - 113dv - 77k x 71k  
+6 solids - attempt 2 - successful orbit - 146dv - 81k x 70k  
+shows that first stages are all about lifting second stages not speed or altitude  
+now going to 10 solids and more fuel for second stage  
+8 - 80 percent solids - 50k apa  
+9 - 90 percent solids - 55k apa - good enough - successful orbit - 1074dv - 73k x 71k  
+pretty much have to restart game on every launch to get reliable results  
+for missions to mun and minmus the second stagecan be used directly  
+the second stage can contribute to a burn to the planets with a correction later  
+50k is a great aerobraking altitude but no lower  
+could use an rtg  
+dv is reduced to 0 with nuclear engines at eve surface  
+can fly around in eve upper atmosphere and visit moon with no problem  
+result - successful orbital operations but surface landing and recovery is impossible
 
-**Dunian expedition**  
-upper stage wing wants to break because of transverse load  
-keep total drag below 1000kn during ascent  
-should be plenty of dv in middle stage
+**Kimalayan survey - mini mission**  
+polar surveys indicated this as an area of interest  
+vehicle will explore high mountains and the glacial plateau area  
+result - oscar to high mountain area???
 
-**Joolian conquest**  
-launch problem is aero of upper stage is high while launcher weight was down low  
-launchers attached to upper stage instead and steering boosters added to solids  
-middle stage can get pusher tug and upper stage to about 10 minutes to apa  
-brimstone reinforced and is more sturdy on launch and tug can push at 100 percent  
-tug being able to push at 100 percent indicates increased stiffness  
-standard failures still occur sometimes but reinforcement was worth it  
-reinforcement worth it due to less chance of major failure and more sturdy with tug  
+**Dunian expedition - latest is good to launch direct from orbit???**  
+improved fighter launcher compared to mission to anywhere  
+more fuel for second stage and pusher stage and parachutes added to pusher stage  
+uses internal optional fuel tank for pusher stage  
+successful orbit - 414dv - 78k x 70k
+
+**Joolian conquest - latest is good to launch direct from orbit**  
+uses external optional fuel tank for pusher stage  
+80 percent thrust apa result - 123k / 124k on next attempt  
+90 percent thrust apa result - 146k and failure on pusher stage droptanks  
+100 percent thrust apa result - 165k and no failure after the reinforcement  
+100 percent - successful orbit - 861dv - 138k x 77k  
+is already pretty good and claims to have 14896dv in pusher stage  
+probably not correct calculation as only 4500dv or so without droptanks  
+should have around 6000dv in pusher stage regardless  
+abaddon rocket plane integrated - 53 - successful orbit - 1015dv 141k x 76k - abaddon failed due to standard corruption  
+tried to avoid standard failure by adding 2 stands/2 struts on each side of problematic fuel tanks/95 percent booster thrust  
+57 - successful orbit - 808dv 135k x 78k - totally vertical ascent with first stage - no failures  
+57 - turn to 75 degrees at 60k apa - wing failure  
+57 - turn to 75 degrees at 70k apa - successful orbit - 851dv 135k x 77k - no failures  
+57 - turn to 60 degrees at 70k apa - successful orbit - 928dv 144k x 77k - no failures  
+57 - turn to 45 degrees at 70k apa - successful orbit - 1034dv 137k x 74k - failure but stayed together anyway  
+stay directly on the correct orbital line when burning and try not to burn below 10 degrees very much for hopefully max dv  
+can still get a standard failure during ascent near max q at 750 mps and 20k altitude  
+standard failure can sometimes be an insidious failure and a fuel tank and engine can fly out during orbital operations  
+be sure both nuclear engines are still showing as available in the stage list after a standard failure  
 turn back on yaw and roll for both wing sections after upper stage separation
+
+**Evian tides - latest is good to launch direct from orbit**  
+may need to use engines to slow just before landing  
+hopefully the 2 stages of boosters will get the ship above cloud level to fire nuclear engines  
+should burn nuclear engine continously with boosters for most speed and most weight loss  
+in theory the plane could be partially defueled of hydrogen but that is not going to happen  
+perhaps parachute settings will need to be modified  
+32 - sketchy launch - 4339dv in orbit compared to 2812dv in orbit with larger second stage and pusher stage  
+48 - better launch but still limited second and pusher stage control - 4301dv - 5445dv after transfer with more to go
 
 **Unused names**  
 sanger  
@@ -709,6 +838,43 @@ just double click the vehicle and it still controls fine
 very important to have high thrust for ssto  
 adding more fuel to a low thrust ssto has low impact  
 adding more fuel to a high thrust ssto has high impact
+
+**Getting to Minmus**  
+minmus is on a different orbital plane than mun  
+mess with the various things on the maneuver planner and it is quite tedious  
+limit engine thrust for fine orbital manuevers and near the surface  
+maybe best to do some adjustments right after the burn if there were problems  
+at least have to get close enough in orbit to the body for periapsis to appear  
+just sort of randomly switch orbital directions and burn to watch periapsis  
+in theory multiple planned burns could be done but that is even more tedious
+
+**Patch 2 evaluation**  
+motorcycles - check  
+standard - check  
+alpha - check  
+bravo - action groups fixed for patch 2 engine bugs - check  
+golf - very bad control authority/bad lift/lack of fuel/patch 2 bugs - retired  
+hotel - action groups fixed for patch 2 engine bugs - check  
+mothership - sometimes standard failures and wing planform inversion fixed - usable  
+nodachi - improve ground handling with wider rear gear and move front but problem is landing gear distance bug - usable  
+foxtrot - bad control authority/bad lift/old design/slow speed/patch 2 bugs - retired  
+charlie - old design - retired  
+trainer - failed due to wing planform bug and the planform is the whole wing but worked around - usable  
+delta - improve ground handling with maxing out rear suspension - check  
+echo - check  
+small rockets - check  
+dragster train - check  
+morning star - check  
+wavedasher - check  
+mike - fix thrust deflector deployment - check  
+brimstone - check  
+islandhorse - check  
+firebrand - check  
+odachi - check  
+india - superceded by lima - retired  
+juliette - superceded by kilo - retired  
+kilo - check  
+lima - check
 
 # AI "Interstellar Mod"
 
