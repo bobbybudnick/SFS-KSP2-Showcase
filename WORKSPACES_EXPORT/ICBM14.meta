@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "ICBM14",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\ICBM14.png",
+  "Mass": 2.88168931,
+  "SaveTime": 638155429345712387,
+  "Parts": 36,
+  "Stages": 2,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

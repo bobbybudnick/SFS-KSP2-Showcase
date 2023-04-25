@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "STREETBIKE36",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\STREETBIKE36.png",
+  "Mass": 0.595640361,
+  "SaveTime": 638178451714092910,
+  "Parts": 22,
+  "Stages": 1,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

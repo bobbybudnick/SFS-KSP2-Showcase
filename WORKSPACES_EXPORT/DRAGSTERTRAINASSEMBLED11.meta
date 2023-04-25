@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "DRAGSTERTRAINASSEMBLED11",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\DRAGSTERTRAINASSEMBLED11.png",
+  "Mass": 189.758942,
+  "SaveTime": 638160795494502183,
+  "Parts": 191,
+  "Stages": 2,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "VTOLDELTA41",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\VTOLDELTA41.png",
+  "Mass": 53.6351929,
+  "SaveTime": 638169351475491111,
+  "Parts": 70,
+  "Stages": 2,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

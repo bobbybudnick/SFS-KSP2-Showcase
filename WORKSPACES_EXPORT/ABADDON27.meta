@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "ABADDON27",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\ABADDON27.png",
+  "Mass": 10.0551128,
+  "SaveTime": 638176686036014601,
+  "Parts": 24,
+  "Stages": 2,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}

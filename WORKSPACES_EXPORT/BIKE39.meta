@@ -1,0 +1,18 @@
+{
+  "VersionString": "0.2",
+  "Name": "BIKE39",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\BIKE39.png",
+  "Mass": 0.8350205,
+  "SaveTime": 638151240427581922,
+  "Parts": 29,
+  "Stages": 1,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust",
+    "VAB/EngineersReport/Flaws/Engine Missing Access Necessary Fuels"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "CANNON57",
+  "VehicleName": "Fly Safe",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\CANNON57.png",
+  "Mass": 2.908375,
+  "SaveTime": 638178436343838113,
+  "Parts": 32,
+  "Stages": 8,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

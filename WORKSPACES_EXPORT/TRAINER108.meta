@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "TRAINER108",
+  "VehicleName": "Fly Safe",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\TRAINER108.png",
+  "Mass": 57.0234222,
+  "SaveTime": 638169828841192171,
+  "Parts": 93,
+  "Stages": 3,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}

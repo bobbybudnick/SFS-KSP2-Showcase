@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "VTOL14",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\VTOL14.png",
+  "Mass": 8.357562,
+  "SaveTime": 638158571191734687,
+  "Parts": 34,
+  "Stages": 1,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}

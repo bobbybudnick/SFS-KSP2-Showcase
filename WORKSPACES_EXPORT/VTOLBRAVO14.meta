@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "VTOLBRAVO14",
+  "VehicleName": "Fly Safe",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\VTOLBRAVO14.png",
+  "Mass": 9.766061,
+  "SaveTime": 638169371607875366,
+  "Parts": 50,
+  "Stages": 2,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}

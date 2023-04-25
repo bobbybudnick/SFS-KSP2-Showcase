@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "MOTHERSHIP47",
+  "VehicleName": "Fly Safe",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\MOTHERSHIP47.png",
+  "Mass": 143.30452,
+  "SaveTime": 638169310685404110,
+  "Parts": 49,
+  "Stages": 2,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

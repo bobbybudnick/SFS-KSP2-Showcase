@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "VTOLHOTEL17",
+  "VehicleName": "Fly Safe",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\VTOLHOTEL17.png",
+  "Mass": 13.4315662,
+  "SaveTime": 638169369645498057,
+  "Parts": 47,
+  "Stages": 3,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}

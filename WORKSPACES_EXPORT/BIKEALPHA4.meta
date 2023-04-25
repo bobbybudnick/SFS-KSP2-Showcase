@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "BIKEALPHA4",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\BIKEALPHA4.png",
+  "Mass": 1.27874041,
+  "SaveTime": 638151247170047379,
+  "Parts": 43,
+  "Stages": 2,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}

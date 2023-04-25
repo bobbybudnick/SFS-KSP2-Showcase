@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "HEADLESSHORSEMAN1",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\HEADLESSHORSEMAN1.png",
+  "Mass": 0.3685,
+  "SaveTime": 638163821307457974,
+  "Parts": 7,
+  "Stages": 2,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

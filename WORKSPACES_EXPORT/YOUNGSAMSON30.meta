@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "YOUNGSAMSON30",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\YOUNGSAMSON30.png",
+  "Mass": 4.75282,
+  "SaveTime": 638153788560553565,
+  "Parts": 53,
+  "Stages": 7,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

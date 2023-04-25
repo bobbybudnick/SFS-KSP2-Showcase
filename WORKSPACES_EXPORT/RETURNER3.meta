@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "RETURNER3",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\RETURNER3.png",
+  "Mass": 0.7238,
+  "SaveTime": 638169432692694325,
+  "Parts": 13,
+  "Stages": 3,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}

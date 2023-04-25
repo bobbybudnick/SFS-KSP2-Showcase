@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "VTOLECHO3",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\VTOLECHO3.png",
+  "Mass": 23.60919,
+  "SaveTime": 638158572912819567,
+  "Parts": 42,
+  "Stages": 2,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}

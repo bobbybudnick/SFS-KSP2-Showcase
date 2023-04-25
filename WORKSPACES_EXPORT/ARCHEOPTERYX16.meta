@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "ARCHEOPTERYX16",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\ARCHEOPTERYX16.png",
+  "Mass": 10.561903,
+  "SaveTime": 638158566071202345,
+  "Parts": 51,
+  "Stages": 3,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

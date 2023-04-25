@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "STREETBIKEALPHA12",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\STREETBIKEALPHA12.png",
+  "Mass": 1.06429732,
+  "SaveTime": 638150456089868298,
+  "Parts": 36,
+  "Stages": 2,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/Engine Missing Access Necessary Fuels"
+  ]
+}

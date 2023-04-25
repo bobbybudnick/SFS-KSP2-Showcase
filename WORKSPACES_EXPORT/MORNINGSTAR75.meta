@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "MORNINGSTAR75",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\MORNINGSTAR75.png",
+  "Mass": 133.06369,
+  "SaveTime": 638163242117726432,
+  "Parts": 104,
+  "Stages": 4,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

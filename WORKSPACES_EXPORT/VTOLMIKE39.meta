@@ -1,0 +1,17 @@
+{
+  "VersionString": "0.2",
+  "Name": "VTOLMIKE39",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\VTOLMIKE39.png",
+  "Mass": 15.3465843,
+  "SaveTime": 638169402160917473,
+  "Parts": 73,
+  "Stages": 1,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": [
+    "VAB/EngineersReport/Flaws/NotEnoughThrust"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "VersionString": "0.2",
+  "Name": "VTOLALPHA3",
+  "VehicleName": "New Workspace",
+  "Description": "No Description",
+  "ThumbnailPath": "\\Saves\\SinglePlayer\\Default\\Workspaces\\VTOLALPHA3.png",
+  "Mass": 8.957562,
+  "SaveTime": 638158571531251375,
+  "Parts": 34,
+  "Stages": 1,
+  "IsAutoSave": false,
+  "CampaignName": "Default",
+  "IsBackupWorkspace": false,
+  "CriticalConcernLocTerms": []
+}
