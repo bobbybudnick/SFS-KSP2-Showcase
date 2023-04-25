@@ -857,7 +857,7 @@ kimalayan survey - fighter mission to high mountains and tundra
 dunian expedition -fighter mission to duna  
 joolian conquest - strategic bombing mission to jool  
 evian tides - imperial colonial mission to eve  
-motorcycles to minmus - top secret agency mission to minmus
+motorcycles on minmus - top secret agency mission to minmus
 
 **Polar endeavour - mini mission**  
 the poles were thought to be hiding some secrets  
@@ -935,7 +935,7 @@ perhaps parachute settings will need to be modified
 32 - sketchy launch - 4339dv in orbit compared to 2812dv in orbit with larger second stage and pusher stage  
 48 - better launch but still limited second and pusher stage control - 4301dv - 5445dv after transfer with more to go
 
-**Motorcycles to Minmus**  
+**Motorcycles on Minmus**  
 recommended max speed on kerbin of about 15mps for rover version  
 there have been countless vehicle attachment failures  
 st-micro-1 and stj-3125 are hyper bugged to an incredible level - seat pops off/vehicle disappears/frame breaks  
