@@ -712,6 +712,130 @@ instead ascend at 60 degrees as this allows for full afterburner power
 more of the more efficient afterburner energy is used in this regime  
 60 degree ascent - successful orbit - 508dv - 74k x 70k
 
+**Durandal star cruiser - "champion of the skies"**  
+shipname balena - next ship off line is olympus  
+callsign warlock  
+future eve returner rtol/ctol  
+turn sas on and hold back on the controls for takeoff  
+all models can be elevated vertically and they will sit indefinitely with no structural issues  
+37 - move rear gear forward 3 steps  
+38 - move rear gear forward 3 steps  
+39 - move rear gear forward 3 steps  
+40 - reinforce wing top and bottom with good results  
+41 - move rear gear forward 3 steps  
+42 - move rear gear forward 3 steps  
+43 - move rear gear forward 3 steps  
+44 - strut outer nuclear engines to mounts to deal with weird mount failure  
+45 - move rear gear forward 3 steps  
+46 - move rear gear forward 3 steps  
+47 - move rear gear forward 3 steps  
+48 - move rear gear forward 3 steps - bad control authority after running off edge - cannot pitch up  
+49 - move wings forward  
+50 - change much of the front center from liquid fuel tanks to cargo bays  
+51 - move sas mounts forward  
+52 - readd struts to core and sas mounts  
+53 - move wings forward  
+54 - add liquid fuel ballast in rear  
+55 - developmental frontend  
+56 - ongoing transition to hydrogen in front and liquid in rear to balance  
+57 - balance transition with core complete  
+58 - troubleshoot dread corruption bug  
+59 - merge wings  
+60 - merge rear core  
+61 - readd struts  
+62 - move rear gear back 3 steps  
+63 - move rear gear back 3 steps  
+64 - add wing struts with total failure  
+65 - add nuclear engines invidually due to symmetry weakness  
+66 - readd struts to true wing parent top and bottom with success  
+67 - attempt to solve xs1 failure  
+68 - break down to deal with heavy failures  
+69 - readded wings and struts  
+70 - make rudder wings taller with better stability even on runway - flying example  
+71 - add central core section  
+72 - make rudder wings larger  
+73 - troubleshoot failures since core section was added and make rudder wings taller  
+74 - new wing configuration to bring rudder wings back to rear  
+75 - old wing but moved back  
+76 - based on 74 but with wings moved forward  
+77 - readd central core section  
+78 - try to finish  
+79 - double strut rf ad 2500 to adjoining cargo bay  
+80 - fix center nuclear engines thrust occlusion  
+81 - quad strut rf ad 2500 to adjoining cargo bay  
+82 - strut rear of sas housing and front center hydrogen tank  
+83 - move rear gear back 3 steps  
+84 - mega strut rf ad 2500 to adjoining cargo bay  
+successful orbit - 84 - barely made it due to nuclear backflips - 3376dv - 218k x 76k  
+85 - rebuild center nuclear section with individual engine mounts  
+86 - strut between rear side engine sections and sas housing  
+87 - move center nuclear engines up to counter backflip with no results at all  
+88 - move center nuclear engines up 3 steps with a distinct frontflip  
+89 - move center nuclear engines down 1 step with a distinct frontflip  
+90 - move center nuclear engines with random results  
+91 - turn vertical and add temporary tail because a vertical launch has different aero  
+92 - strut all nuclear engines to each other  
+93 - tune up and down position of liquid fuel engines  
+94 - rebuild center nuclear section with individual engine mounts  
+95 - move center nuclear section up 1 step but upper right nuclear engine outside core is bucking  
+96 - strut upper outer nuclear engines from mounts to engines with no effect on outer upper right  
+97 - strut upper outer nuclear engines from engines to mount with no effect on outer upper right  
+98 - strut upper outer nuclear engines to symmetric mount with little effect  
+99 - back to 95 and move center nuclear section up 1 step  
+100 - move center nuclear section up 2 steps  
+101 - more upward movement of nuclear engines  
+102 - rebuild all engine mounts and fairly stable with just the center nuclear section  
+103 - readd outside nuclear engines and they all buck evenly and that seems to be fine  
+104 - rearrange sas mount to reduce parts and add 1 rtg  
+105 - add decorative pieces  
+106 - with struts between side nuclear engines  
+107 - with struts between all nuclear engines  
+108 - with only struts between center and sides  
+109 - mega strut nuclear engines with pretty good results  
+start nuclear at 500m/pitch to 75 and go to 75 throttle at mach 1/go to 50 throttle at 500mps/25 throttle when higher  
+successful orbit - 109 - 3481dv - 261k x 73k  
+second attempt - 109 - 4930dv - 94k x 73k - even 1.49t of liquid fuel left  
+109 can successfully take off on runway and land  
+109 is afflicted with uneven landing gear bug  
+109 flights should be very careful if turning vertical to not exceed structural limits  
+109 has 1.5g maneuever limit when fully loaded and 2g maneuever limit when at half fuel  
+110 - remove strut on front hydrogen tank with weak connection and add nav lights  
+111 - remove phantom lights from inside wings which were trapped when wings grew  
+key - strip down and send down runway to look for failures  
+key - the heaviest mass which is liquid fuel should be toward rear where wings are  
+key - recognize nuclear engine symmetry weakness  
+key - clipped x struts from one fueselage section to another  
+key - change wing shape to bring rudder wing to rear but keep lift near mass  
+key - add struts between wing and true parent on top and bottom of wing  
+key - corrupt engine mounts can impart strange forces causing flips and yaws  
+key - nuclear engines sometimes get caught in liquid exhaust causing bucking  
+design thoughts - old  
+it seems impractical to have the liquid engines at rear and really needs vtol  
+the takeoff and landing rolls are dangerous and use a lot of fuel even on kerbin  
+the rotation is dangerous and failure prone even on kerbin  
+may need several liquidfuel vtol engines instead of mammoth  
+also if the point is a dignified ascent then vtol is a plus  
+the problem is vtol and main liquid engine are likely needed  
+a vtol only ascent may be too slow and unstable  
+current stol concept should be tested more because there are still problems with vtol  
+design thoughts - new  
+it may be freeing to have a vehicle like this with no vtol and rocket landing  
+parachute module attached to nose could allow for eve rocket landing  
+landing legs could even be used if necessary  
+perhaps a rocket landing could be more dignified after all  
+eve questions  
+dv to get above cloud layer???  
+flat area to land and takeoff???  
+best winged configuration - stol - vtol - vtol + main - rtol???
+
+**Martlett 1 orbital cannon**  
+shipname catapult  
+callsign bull-1-1  
+sounding rocket  
+be sure to engage vertical mode upon each staging initiation  
+at 50k apa burn toward the horizon  
+successful orbit - 57 - 115dv - 103k x 70k
+
 # Missions
 
 **Master list**  
@@ -721,7 +845,8 @@ eve of innovation - military space mission to eve
 kimalayan survey - fighter mission to high mountains and tundra  
 dunian expedition -fighter mission to duna  
 joolian conquest - strategic bombing mission to jool  
-evian tides - imperial colonial mission to eve
+evian tides - imperial colonial mission to eve  
+motorcycles to minmus - top secret agency mission to minmus
 
 **Polar endeavour - mini mission**  
 the poles were thought to be hiding some secrets  
@@ -798,6 +923,19 @@ in theory the plane could be partially defueled of hydrogen but that is not goin
 perhaps parachute settings will need to be modified  
 32 - sketchy launch - 4339dv in orbit compared to 2812dv in orbit with larger second stage and pusher stage  
 48 - better launch but still limited second and pusher stage control - 4301dv - 5445dv after transfer with more to go
+
+**Motorcycles to Minmus**  
+recommended max speed on kerbin of about 15mps for rover version  
+there have been countless vehicle attachment failures  
+st-micro-1 and stj-3125 are hyper bugged to an incredible level - seat pops off/vehicle disappears/frame breaks  
+all attachment points except for docking port stay with vehicle and need to attach to bottom so cannot be used  
+wheel suspension is based on fps and may need adjustment  
+going to have to wait until booster separation to go away from vertical  
+wait until 60k apa to steer to horizon  
+these launch instructions are for the boosted version not the integrated version  
+55k apa was slightly better dv but more sketchy to maneuver without flips  
+with attached vehicles naturally the dv will be less for several reasons  
+best we can do with motorcycle is to just need a tiny amount of hydrogen for orbit
 
 **Unused names**  
 sanger  
