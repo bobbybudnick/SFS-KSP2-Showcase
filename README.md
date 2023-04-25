@@ -72,7 +72,7 @@ now with 3 engines front and rear for more lift performance
 
 **X-32 "Charlie"**  
 wing redesigned as x-32 light  
-horizontail tail moved down to same level as wing  
+horizontal tail moved down to same level as wing  
 vertical tail removed temporarily  
 vertical tail readded and angled appropriately which brings center of lift up  
 wing down dihedral added to bring center of lift down  
