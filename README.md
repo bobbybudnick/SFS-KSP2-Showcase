@@ -843,6 +843,8 @@ Caption - A project Durandal skyscraper shipname Balena looms in the Minmus back
 shipname catapult  
 callsign bull-1-1  
 sounding rocket  
+started out launching a small payload but is now scaled up showing power of sepatrons as boosters  
+so the sepatron guns are the first stages and then some solid stages then a liquid stage  
 be sure to engage vertical mode upon each staging initiation  
 at 50k apa burn toward the horizon  
 successful orbit - 57 - 115dv - 103k x 70k
