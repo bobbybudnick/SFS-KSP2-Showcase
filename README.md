@@ -482,7 +482,8 @@ ctol - about 8 seconds of hover fuel for emergencies and ballast
 ctol - do not pitch quickly because center of lift is near center of mass  
 ctol - slow ramp to full throttle in space
 
-https://github.com/bobbybudnick/SFS-KSP2-Showcase/blob/main/ABOVEEVE.jpg
+![](https://github.com/bobbybudnick/SFS-KSP2-Showcase/blob/main/ABOVEEVE.jpg)
+Caption - A project Odachi vessel shipname Calnus orbits perilessly above Eve.
 
 **Firebrand STOVL SSTO**  
 sleek nuclear powered cheatbird is heavy interceptor or executive transport  
@@ -833,7 +834,8 @@ dv to get above cloud layer???
 flat area to land and takeoff???  
 best winged configuration - stol - vtol - vtol + main - rtol???
 
-https://github.com/bobbybudnick/SFS-KSP2-Showcase/blob/main/MOTORCYCLESONMINMUS.jpg
+![](https://github.com/bobbybudnick/SFS-KSP2-Showcase/blob/main/MOTORCYCLESONMINMUS.jpg)
+Caption - A project Durandal skyscraper shipname Balena looms in the Minmus background as a lucky Kerman pops a wheelie.
 
 **Martlett 1 orbital cannon**  
 shipname catapult  
