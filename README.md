@@ -189,8 +189,7 @@ wing tanks - successful orbit - 27 - 10247dv - 4.16t of 7.5t - 98k x 70k
 **XY-32 "Juliette"**  
 cheatbird like india but with jet vtol instead  
 dv has taken an impact from the heavier jets  
-fairly stable in the hover  
-color scheme favorite color blue and purple
+fairly stable in the hover
 
 **XZ-32 "Kilo"**  
 cheatbird like juliette but with 2 panther vtol/2 secondary whiplash/extra fuel  
@@ -307,7 +306,6 @@ can do pure vtol takeoff on kerbin with less fuel
 shipname calnus - next ship off line is challenger  
 callsign crystal palace  
 styled as srf planetary cruiser  
-color scheme carolina blue and unfinished duranium  
 twr shown is only for vacuum  
 key 1 - clearing debris from runway so it does not impede takeoff  
 key 2 - strip to bare fueselage and taxi to look for structural issues  
@@ -506,7 +504,6 @@ pilot and cockpit can survive beaching which is also the way to stop
 shipname b-3  
 callsign lavos  
 cheatbird for strategic missions on vulcan-class worlds  
-color scheme fired brick  
 a key was to reattach the body wing to tanks near center  
 tanks at edge flex too much  
 attach wings to body wings  
@@ -807,6 +804,16 @@ sanger
 thunderbird  
 lightning 3  
 harrier
+
+**Color schemes**  
+srf livery 1 - unfinished stainless and carolina blue  
+srf livery 2 - unfinished duranium and carolina blue  
+fired brick - nc state red and black  
+neutronium - purple blue or purple blue and red or black or gold  
+water - milky blue  
+cloud - white  
+default - off white and grey  
+favorite colors - purple blue and purple
 
 # Tips
 
