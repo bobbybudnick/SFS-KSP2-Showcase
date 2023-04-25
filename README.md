@@ -2,6 +2,8 @@
 
 Welcome to Aerotech Industries.  We have retooled and reopened our production line for KSP2.  Patent pending.  All rights reserved.  Rebate time usually 1-2 years.  Subject to KTAR restrictions.  No warranty implied, implicit or otherwise.  Use at your own risk.  Requires standard 24-month subscription. Subject to approval.  APR of 17.5% after 1 billing cycle.  5 factor authentication (5FA) login a requirement.  Void where prohibited. Microsoft "Palladium" compatible computer with always on network connection and TPM and all approved updates required.  Widevine 10.0 digital restrictions management with mandatory neural punishment interface rolling out starting in 2024.  **Minimum:** 3 x OC WC Nvidia 4090 **Recommended:** Cerebras Wafer Scale Engine
 
+https://github.com/bobbybudnick/SFS-KSP2-Showcase/blob/main/FAMILYPORTRAIT.jpg
+
 # Vehicles
 
 **High altitude flip solutions and Trainer SSTO CTOL**  
@@ -479,6 +481,8 @@ ctol - about 8 seconds of hover fuel for emergencies and ballast
 ctol - do not pitch quickly because center of lift is near center of mass  
 ctol - slow ramp to full throttle in space
 
+https://github.com/bobbybudnick/SFS-KSP2-Showcase/blob/main/ABOVEEVE.jpg
+
 **Firebrand STOVL SSTO**  
 sleek nuclear powered cheatbird is heavy interceptor or executive transport  
 shipname tremor  
@@ -827,6 +831,8 @@ eve questions
 dv to get above cloud layer???  
 flat area to land and takeoff???  
 best winged configuration - stol - vtol - vtol + main - rtol???
+
+https://github.com/bobbybudnick/SFS-KSP2-Showcase/blob/main/MOTORCYCLESONMINMUS.jpg
 
 **Martlett 1 orbital cannon**  
 shipname catapult  
