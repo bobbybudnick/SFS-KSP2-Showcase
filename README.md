@@ -1,6 +1,6 @@
 # Intro
 
-Welcome to Aerotech Industries.  We have retooled and reopened our production line for KSP2.  Patent pending.  All rights reserved.  Rebate time is usually 1-2 years.  Subject to KTAR restrictions.  No warranty implied, implicit or otherwise.  Use at your own risk.  Requires standard 24-month subscription. Subject to approval.  APR of 17.5% after 1 billing cycle.  5 factor authentication (5FA) login a requirement.  Microsoft "Palladium" compatible computer with always on network connection and TPM and all approved updates required.  Widevine 10.0 digital restrictions management with mandatory neural punishment interface rolling out starting in 2024.  **Minimum:** 3 x OC WC Nvidia 4090 **Recommended:** Cerebras Wafer Scale Engine
+Welcome to Aerotech Industries.  We have retooled and reopened our production line for KSP2.  Patent pending.  All rights reserved.  Rebate time is usually 1-2 years.  Subject to KTAR restrictions.  No warranty implied, implicit or otherwise.  Use at your own risk.  Requires standard 24-month subscription. Subject to approval.  APR of 17.5% after 1 billing cycle.  5 factor authentication (5FA) login a requirement.  Void where prohibited. Microsoft "Palladium" compatible computer with always on network connection and TPM and all approved updates required.  Widevine 10.0 digital restrictions management with mandatory neural punishment interface rolling out starting in 2024.  **Minimum:** 3 x OC WC Nvidia 4090 **Recommended:** Cerebras Wafer Scale Engine
 
 # Vehicles
 
@@ -187,13 +187,13 @@ successful orbit - 26 - 8577dv - 3.21t of 6.25t - 115k x 70k
 wing tanks - successful orbit - 27 - 10247dv - 4.16t of 7.5t - 98k x 70k
 
 **XY-32 "Juliette"**  
-india but with jet vtol instead  
+cheatbird like india but with jet vtol instead  
 dv has taken an impact from the heavier jets  
 fairly stable in the hover  
 color scheme favorite color blue and purple
 
 **XZ-32 "Kilo"**  
-juliette but with 2 panther vtol/2 secondary whiplash/extra fuel  
+cheatbird like juliette but with 2 panther vtol/2 secondary whiplash/extra fuel  
 ultimate kerbin exploration vtol  
 probably worse dv than india due to the jet fuel and jets  
 no need for multiple variants because stovl variant does it all  
@@ -213,7 +213,7 @@ at higher altitudes assume lower aoa and control altitude with throttle
 8 - toggle main independent throttle
 
 **ZX-32 "Lima"**  
-kilo but jets removed and aerospike vtol added  
+cheatbird like kilo but jets removed and aerospike vtol added  
 ultimate space exploration vtol and counterpart of kilo  
 important to remain balanced due to aerospike having no gimbals  
 40k is noticeably better than 30k for atmospheric cruising  
@@ -228,12 +228,13 @@ can not deploy other surfaces or will lose control
 does not hover yet but takeoff and slow speed flight is largely improved
 
 **ZY-32 "November"**  
+space optimized cheatbird  
 may have less dv  
 but can fly around more on moons on nuclear vtol engines  
 more consistent with a single fuel type
 
 **YZ-32 "Oscar"**  
-kilo with 2 extra jet engines and more jet fuel and hydrogen  
+cheatbird like kilo with 2 extra jet engines and more jet fuel and hydrogen  
 patch 2 engine bug action group workarounds applied  
 stovl performance is limited  
 maybe better than kilo because it commits more to jet usage  
@@ -243,10 +244,15 @@ be sure to engage first stage at start
 3 - hover off  
 4 - secondary on  
 5 - secondary off  
-6 - toggle main independent throttle
+6 - toggle main independent throttle  
+updated to overcome action group misunderstanding -  
+1 - toggle main  
+2 - toggle hover  
+3 - toggle secondary  
+4 - toggle main secondary throttle
 
 **ZZ-32 "Papa"**  
-november modified for use on eve with large boosters/parachutes/vtol removed  
+cheatbird like november modified for use on eve with large boosters/parachutes/vtol removed  
 probably good for tylo operations also  
 could be used to leave the solar system easily especially with a large booster
 
@@ -259,7 +265,7 @@ roadunner alpha hit 210 max
 roadunner alpha hit 204 and flipped forward when reversers deployed
 
 **Nodachi commercial heavy STOVL**  
-shipname cheatbird 1  
+shipname cheatbird  
 callsign phoenix 1-1  
 trainer for flying planetary cruiser  
 light cargo transport  
@@ -298,7 +304,7 @@ can do pure vtol takeoff on kerbin with less fuel
 10 percent used because fps does not allow fine adjustment
 
 **Odachi military heavy STOVL**  
-shipname cheatbird 2  
+shipname calnus - next ship off line is challenger  
 callsign crystal palace  
 styled as srf planetary cruiser  
 color scheme carolina blue and unfinished duranium  
@@ -497,8 +503,8 @@ sas in up mode to slow for controllable speed
 pilot and cockpit can survive beaching which is also the way to stop
 
 **Brimstone bomber**  
-shipname lavos  
-callsign warlock  
+shipname b-3  
+callsign lavos  
 cheatbird for strategic missions on vulcan-class worlds  
 color scheme fired brick  
 a key was to reattach the body wing to tanks near center  
@@ -876,7 +882,7 @@ firebrand - check
 odachi - check  
 india - superceded by lima - retired  
 juliette - superceded by kilo - retired  
-kilo - check  
+kilo - superceded by oscar - retired  
 lima - check
 
 # AI "Interstellar Mod"
